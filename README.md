@@ -1,6 +1,6 @@
 # Conway-s-Game-of-Life
 
-Conway's Game of Life is a "one-player" game.  It begins with a grid.  Each 
+Conway's Game of Life is a "zero-player" game.  It begins with a grid.  Each 
 square on the grid can potentially have a "cell".  If the cell has too many 
 living cells around it, it dies of overcrowding.  If it has too few, it dies
 of loneliness. If a an empty spot on the grid is surrounded by the right number 
